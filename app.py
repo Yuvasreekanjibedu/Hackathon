@@ -11,7 +11,7 @@ import json
 # PAGE CONFIG
 # ─────────────────────────────────────────────────────────────
 st.set_page_config(
-    page_title="Fiba AI | Smart Finance Assistant",
+    page_title="Finguard AI | Smart Finance Assistant",
     page_icon="🛡️",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -363,7 +363,7 @@ def spending_advice(categories):
 if "Dashboard" in page:
     st.markdown("""
     <div class='hero'>
-        <h1>🛡️ Fiba AI</h1>
+        <h1>🛡️ Finguard AI</h1>
         <p>Your AI-powered personal finance assistant — expenses, fraud, and loans in one place</p>
     </div>
     """, unsafe_allow_html=True)

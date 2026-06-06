@@ -3,7 +3,8 @@
 > Built for a 3-hour hackathon. One platform. Three financial solutions.
 
 ## 🚀 Live Demo
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app.streamlit.app)
+[![Streamlit App]
+https://hackathon-dey3nwsunpurgf2msbaicx.streamlit.app/
 
 ---
 
